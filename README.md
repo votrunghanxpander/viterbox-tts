@@ -71,7 +71,7 @@ Model được fine-tune trên **3000+ giờ** dữ liệu tiếng Việt chất
 ```bash
 # Clone repo
 git clone https://github.com/iamdinhthuan/viterbox-tts.git
-cd viterbox
+cd viterbox-tts
 
 # Tạo virtual environment (khuyến nghị)
 python -m venv venv
