@@ -97,6 +97,13 @@ pip install -e .
 ```bash
 python app.py
 ```
+### Khởi động nhanh
+```bash
+cd viterbox-tts
+python -m venv venv
+venv\Scripts\activate
+python app.py
+```
 
 Mở trình duyệt tại `http://localhost:7860`
 
